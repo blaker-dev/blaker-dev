@@ -1,7 +1,8 @@
+<center>
 # 👋 Hi, I'm Blake Robinson
 
 I am a **Computer Science** student at the **University of Washington** with a focus on building functional, high-performance, and visually engaging software. Whether I’m leading software teams for robotics or helping students debug complex logic as a **Teaching Assistant**, I’m driven by the intersection of systems engineering and creative design.
-
+</center>
 ---
 
 ### 🚀 What I’m Working On
@@ -40,7 +41,7 @@ I am a **Computer Science** student at the **University of Washington** with a f
 * **Email:** [Your Email Address]
 -->
 
-![Blake's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Blake's GitHub stats](https://github-readme-stats.vercel.app/api?username=blaker-dev&show_icons=true&theme=radical)
 
 ---
 > "The best way to predict the future is to invent it."
