@@ -56,7 +56,9 @@ I am a **Computer Science** student at the **University of Washington** with a f
 * **Email:** [Your Email Address]
 -->
 
-![Blake's GitHub stats](https://github-readme-stats.vercel.app/api?username=blaker-dev&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blaker-dev&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 > "The best way to predict the future is to invent it."
