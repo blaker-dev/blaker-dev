@@ -1,8 +1,19 @@
-<center>
-# 👋 Hi, I'm Blake Robinson
+<div align="center">
+<h1> 👋 Hi, I'm Blake Robinson </h1>
+CS Major @ University of Washington
 
 I am a **Computer Science** student at the **University of Washington** with a focus on building functional, high-performance, and visually engaging software. Whether I’m leading software teams for robotics or helping students debug complex logic as a **Teaching Assistant**, I’m driven by the intersection of systems engineering and creative design.
-</center>
+
+<br>
+
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,html,css,wasm,py,java,cs,swift,ts,react,vite,tailwind,nodejs,postgres,git,docker&perline=8" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=unity,apple,raspberrypi&perline=8" />
+    </a>
+</p>
+
 ---
 
 ### 🚀 What I’m Working On
@@ -14,6 +25,7 @@ I am a **Computer Science** student at the **University of Washington** with a f
 
 ---
 
+<!--
 ### 🛠 Tech Stack
 
 | Category | Tools & Languages |
@@ -24,6 +36,9 @@ I am a **Computer Science** student at the **University of Washington** with a f
 | **Tools & Platforms** | Git, Unity, Xcode |
 
 ---
+
+-->
+
 
 ### 🎓 Academic & Leadership
 
