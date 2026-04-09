@@ -42,7 +42,7 @@ I am a **Computer Science** student at the **University of Washington** with a f
 * **LinkedIn:** https://www.linkedin.com/in/blake-robinson002400/
 * **Email:** b.robinson.cse@gmail.com 
 
-<br>
+<!-- <br> -->
 
 <!-- <div align="center"> -->
 
