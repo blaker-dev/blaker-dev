@@ -11,9 +11,7 @@ I am a **Computer Science** student at the **University of Washington** with a f
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,html,css,wasm,py,java,cs,swift,ts,react,vite,tailwind,nodejs,postgres,git,docker&perline=8" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=unity,apple,raspberrypi&perline=8" />
+        <img src="https://skillicons.dev/icons?i=js,html,css,py,java,cs,swift,ts,react,vite,nodejs,postgres,git,unity,apple,raspberrypi&perline=8" />
     </a>
 </p>
 
@@ -21,31 +19,16 @@ I am a **Computer Science** student at the **University of Washington** with a f
 
 ---
 
-### 🚀 What I’m Working On
+### What I’m Working On
 
 * **Engineering Horizons:** Currently serving as the Software Team Lead for our Raspberry Pi-based rover project. We’re focusing on autonomous navigation and hardware integration.
-* **The Little Things:** Developing a native iOS application using **Swift** and **SwiftUI** designed to improve daily habit tracking and mindfulness.
 * **Retro Portfolio:** Building a personal portfolio site with a **Retro Windows OS aesthetic** using **React** and **Vite**.
 * **Automation:** Writing Python-based automation tools to streamline data extraction from professional platforms like Handshake.
+* **Google Tools:** Writing internal google add-ons to the process of making accessible resources is easy and convinent.
 
 ---
 
-<!--
-### 🛠 Tech Stack
-
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | Python, Java, C#, SQL, JavaScript, TypeScript |
-| **Frontend** | React, Vite, SwiftUI, Tailwind CSS |
-| **Backend & Data** | Node.js, PostgreSQL, Selenium, BeautifulSoup |
-| **Tools & Platforms** | Git, Unity, Xcode |
-
----
-
--->
-
-
-### 🎓 Academic & Leadership
+### Academic & Leadership
 
 * **Teaching Assistant:** Facilitating computer science courses at UW, where I lead sections and help students master fundamental programming concepts.
 * **Engineering Horizons Officer:** Managing software workflows and coordinating between hardware and firmware teams to ensure project milestones are met.
@@ -55,13 +38,17 @@ I am a **Computer Science** student at the **University of Washington** with a f
 
 ### 📫 Connect with Me
 
-<!--
-* **Portfolio:** [Link to your retro portfolio]
-* **LinkedIn:** [Your Profile Link]
-* **Email:** [Your Email Address]
--->
+<!-- * **Portfolio:** [Link to your retro portfolio] -->
+* **LinkedIn:** https://www.linkedin.com/in/blake-robinson002400/
+* **Email:** b.robinson.cse@gmail.com 
 
-[![Blake's GitHub stats](https://github-readme-stats.vercel.app/api?username=blaker-dev)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+<!-- <div align="center"> -->
+
+<!-- [![Blake's GitHub stats](https://github-readme-stats-sable-delta-71.vercel.app/api?username=blaker-dev)](https://github.com/blaker-dev/github-readme-stats) -->
+
+<!-- </div> -->
 
 ---
 > "The best way to predict the future is to invent it."
