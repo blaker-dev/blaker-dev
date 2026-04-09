@@ -1,6 +1,9 @@
 <div align="center">
-<h1> 👋 Hi, I'm Blake Robinson </h1>
-CS Major @ University of Washington
+
+
+![Header](./github-header-banner.png)
+
+<br>
 
 I am a **Computer Science** student at the **University of Washington** with a focus on building functional, high-performance, and visually engaging software. Whether I’m leading software teams for robotics or helping students debug complex logic as a **Teaching Assistant**, I’m driven by the intersection of systems engineering and creative design.
 
@@ -13,6 +16,8 @@ I am a **Computer Science** student at the **University of Washington** with a f
         <img src="https://skillicons.dev/icons?i=unity,apple,raspberrypi&perline=8" />
     </a>
 </p>
+
+</div>
 
 ---
 
@@ -56,9 +61,7 @@ I am a **Computer Science** student at the **University of Washington** with a f
 * **Email:** [Your Email Address]
 -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blaker-dev&layout=compact&theme=tokyonight" />
-</p>
+[![Blake's GitHub stats](https://github-readme-stats.vercel.app/api?username=blaker-dev)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 > "The best way to predict the future is to invent it."
